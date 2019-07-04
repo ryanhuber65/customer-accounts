@@ -1,0 +1,1 @@
+﻿SELECT* FROM CustomerAccounts Order By AccountNumber; 
